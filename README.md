@@ -5,10 +5,10 @@
 ###
 
 <h1 align="center">Hey there 👋    I am Vishwa Dinath</h1>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+am+Vishwa+Dinath+Dadallage..&hearts;++;I+am+a+Full-Stack+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs...!"></a>
 </p>
-
+ -->
 ###
 
 <h3 align="center">Full Stack Developer</h3>
